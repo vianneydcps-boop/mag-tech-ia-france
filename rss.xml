@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mag Tech Ia France</title>
+    <link>https://vianneydcps-boop.github.io/mag-tech-ia-france/</link>
+    <description>Décrypter l&apos;avenir : Tech, IA et Tendances qui redéfinissent le monde.</description>
+    <language>fr</language>
+    <atom:link href="https://vianneydcps-boop.github.io/mag-tech-ia-france/rss.xml" rel="self" type="application/rss+xml" />
+        <item>
+      <title>V-SEO : Démêler le Vrai du Faux dans l&apos;Optimisation des Moteurs de Recherche</title>
+      <link>https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1793286890565-v-seo-demeler-le-vrai-du-faux-dans-l-optimisation-des-moteur.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1793286890565-v-seo-demeler-le-vrai-du-faux-dans-l-optimisation-des-moteur.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Découvrez V-SEO : Guide Pratique pour Maîtriser le Référencement Naturel</title>
+      <link>https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1792240285516-decouvrez-v-seo-guide-pratique-pour-maitriser-le-referenceme.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1792240285516-decouvrez-v-seo-guide-pratique-pour-maitriser-le-referenceme.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Note de test</title>
+      <link>https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1792082980225-note-de-test.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1792082980225-note-de-test.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Note de test</title>
+      <link>https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1792082028124-note-de-test.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tech-ia-france/posts/1792082028124-note-de-test.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:14:55 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
